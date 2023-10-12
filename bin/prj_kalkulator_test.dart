@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  print('Pilih Operator:');
+ print('Pilih Operator:');
  print('1. Penjumlahan  (+)');
  print('2. Pengurangan  (-)');
  print('3. Perkalian    (x)');
